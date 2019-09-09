@@ -13,6 +13,30 @@ steps {
 bat 'mvn clean install'
 }
 }
+stage ('Deploy Stage')
+ {
 
+ 
+ 
+
+
+ 
+steps 
+{
+
+ 
+
+
+
+ 
+bat 'mvn deploy'
+
+ 
+
+}
+
+ 
+
+}
 }
 }
