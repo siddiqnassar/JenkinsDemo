@@ -53,7 +53,7 @@ steps {
  
 
  
-bat 'mvn deploy'
+
 
  
 }
