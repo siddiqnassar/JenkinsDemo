@@ -7,7 +7,7 @@ agent any
 maven 'maven'
 
 
-jdk 'jdk8'
+jdk 'jdk'
 }
 
  
